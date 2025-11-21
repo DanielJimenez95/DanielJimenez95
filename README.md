@@ -61,5 +61,3 @@ Currently, I am honing my skills in **Python, Statistical Analysis, and ML** thr
 
 * [LinkedIn](https://www.linkedin.com/in/luis-daniel-jimenez-covarrubias-079463170/)
 * 📧 danieljico95@gmail.com
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical)
